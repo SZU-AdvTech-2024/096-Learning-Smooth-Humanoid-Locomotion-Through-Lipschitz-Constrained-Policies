@@ -1,0 +1,6 @@
+@article{REPO096,
+    author = "Chen, Zixuan and He, Xialin and Wang, Yen-Jen and Liao, Qiayuan and Ze, Yanjie and Li, Zhongyu and Sastry, S Shankar and Wu, Jiajun and Sreenath, Koushil and Gupta, Saurabh and others",
+    journal = "arXiv preprint arXiv:2410.11825",
+    title = "{Learning smooth humanoid locomotion through lipschitz-constrained policies}",
+    year = "2024"
+}
